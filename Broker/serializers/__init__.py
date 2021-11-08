@@ -1,0 +1,1 @@
+from Broker.serializers.properties import PropertiesSerializer
