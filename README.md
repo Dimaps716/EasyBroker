@@ -1,6 +1,6 @@
 # EasyBroker
 
-Esta es una pequeña Api la cual realiza peticiones a la Api de EasyBroker la informacion octenida es almansenada ne nuestra basa de datos para su porterior manipulacion en esta api solo se octinene la informacion de ``` properties ``` 🚀
+Esta es una pequeña Api la cual realiza peticiones a la Api de EasyBroker la informacion octenida es almasenada en una basa de datos para su porterior manipulacion en esta api solo se octinene la informacion de ``` properties ``` 🚀
 
 colsulte el la Api de EasyBroker para mas informacion
 * [API de EasyBroker] (https://ayuda.easybroker.com/article/330-api-de-easybroker-beta)
